@@ -45,5 +45,5 @@ L'application "Gestion de Bibliothèque" est un projet Java qui permet de gérer
 
 1. **Cloner le dépôt**
  
-   https://github.com/JOSHBOVICK/Projet.git)
+   https://github.com/JOSHBOVICK/Projet.git
    cd Projet
