@@ -44,6 +44,6 @@ L'application "Gestion de Bibliothèque" est un projet Java qui permet de gérer
 ### Compilation et exécution
 
 1. **Cloner le dépôt**
-   ```bash
-   git clone https://github.com/king-josh/bibliotheque.git
-   cd bibliotheque
+ 
+   https://github.com/JOSHBOVICK/Projet.git)
+   cd Projet
