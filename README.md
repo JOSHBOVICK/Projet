@@ -45,5 +45,5 @@ L'application "Gestion de Bibliothèque" est un projet Java qui permet de gérer
 
 1. **Cloner le dépôt**
    ```bash
-   git clone https://github.com/votre-utilisateur/gestion-bibliotheque.git
-   cd gestion-bibliotheque
+   git clone https://github.com/king-josh/bibliotheque.git
+   cd bibliotheque
